@@ -44,3 +44,8 @@ This project implements a pipeline for converting horizontal videos (16:9) into 
 
 3. **Playback:**
    - Open the final video file (`results/final_portrait.mp4`) with your favorite media player (e.g., VLC).
+
+
+## Results
+
+The results can be downloaded [here](https://drive.google.com/file/d/189rn4nm3FrQ_VSv2s_zGqBBNw9iCu6G_/view?usp=sharing)
